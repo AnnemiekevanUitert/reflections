@@ -9,5 +9,28 @@
 	The staging area holds the files which are under or you wat to bring them version control of git
 	It offers you a view on file which are under version control
 
+3 How can you use the staging area to make sure you have one commit per logical change?
+	add only those files into the staging area you want to commit
+
+4 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	there is more than one person working on the same piece of code
+	you want to try something out
+
+	For each situation you can create different branches, so you can kept those changes seperatly
+
+5 How do the diagrams help you visualize the branch structure?
+	They give you a clear overview of the master branch and all the other brances, so you can quickly see how you can reach the commits
+
+6 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	A combined branch. The first named branch in the commend is the leading one
+
+7 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	pro's: fast, reliable
+	cons: there's always a risk things goes wrong
+
+
+
+
 
 
